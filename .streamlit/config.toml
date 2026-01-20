@@ -1,6 +1,6 @@
 [theme]
 primaryColor="#ffd000ff"  #cor de destaque (bordas, sider) do app
-backgroundColor="#000000ff"  # cor do fundo das pagina
+backgroundColor="rgb(255, 255, 255)"  # cor do fundo das pagina
 secondaryBackgroundColor="#78139aff" # cor secundária dos fundos das páginas (menu, tabelas, etc)
-textColor="#ffffffff" # cor do texto do app
+textColor="rgb(0, 0, 0)" # cor do texto do app
 font="serif" # a fonte do app
