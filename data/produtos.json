@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "Amigurumi Água Viva",
+        "categoria": "Amigurumi",
+        "preco": 25.00,
+        "descricao": "Amigurumi de água viva disponível ans cores rosa, azul, verde e lilás.",
+        "imagem": [
+            "img/agua_viva.jpg",
+            "img/tam_agua_viva.png"]
+    },
+
+    {
+        "id": 2,
+        "nome": "Crochê Catavento",
+        "categoria": "Crochê",
+        "preco": 35.00,
+        "descricao": "Catavento de crochê disponível nas cores azul e vermelho.",
+        "imagem": [
+            "img/catavento.png",
+            "img/tam_catavento.png"]
+    },
+
+    {
+        "id": 3,
+        "nome": "Crochê Lenço",
+        "categoria": "Crochê",
+        "preco": 40.00,
+        "descricao": "Lenço de crochê disponível nas cores off-white, azul e preto.",
+        "imagem": [
+            "img/lenco.jpg",
+            "img/tam_lenco.png"]
+    },
+
+    {
+        "id": 4,
+        "nome": "Amigurumi Abelha",
+        "categoria": "Amigurumi",
+        "preco": 20.00,
+        "descricao": "Amigurumi de abelha.",
+        "imagem": [
+            "img/abelha.jpg",
+            "img/tam_abelha.png"]
+    },
+
+    {
+        "id": 5,
+        "nome": "Amigurumi Capivara",
+        "categoria": "Amigurumi",
+        "preco": 20.00,
+        "descricao": "Amigurumi de capivara disponível nas cores clara e escura.",
+        "imagem": [
+            "img/capivara.jpg",
+            "img/tam_catavento.png"]
+    }
+]

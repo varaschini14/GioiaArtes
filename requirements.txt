@@ -1,0 +1,5 @@
+streamlit
+streamlit-lottie
+google-cloud-firestore
+streamlit-option-menu
+requests
