@@ -1,7 +1,0 @@
-firebase.json
-__pycache__/
-*.json
-firebase-adminsdk*.json
-serviceAccountKey.json
-.streamlit/secrets.toml
-.env
