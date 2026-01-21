@@ -38,7 +38,7 @@ st.markdown(html_code, unsafe_allow_html=True)
 st.write("Bem-vindo ao site da Gioia Artes!")
 
 # Animação do gato com novelo e texto
-
+st.divider()
 col1, col2 = st.columns([1, 2])
 
 with col1:
@@ -59,7 +59,7 @@ with col2:
     st.text("Aqui o crochê é feito à mão com carinho, delicadeza e identidade.\nCada peça é criada com amor, transformando fios em detalhes únicos para deixar o seu dia a dia mais bonito e especial.\nTrabalhamos com amigurumis, peças variadas de crochê e de tricô.")
 
 # Animação de tricô e texto
-
+st.divider()
 col1, col2 = st.columns([2, 1])
 
 with col1:
@@ -83,7 +83,7 @@ with col2:
     st_lottie(animacaoCroche, key="animacaoCroche", speed=1, loop=True, width=400)
 
 # Centralização do logo
-
+st.divider()
 c1, c2, c3 = st.columns([1, 1, 1])
 with c2:
     st.caption("Logo da empresa.")
