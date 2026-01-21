@@ -68,7 +68,7 @@ st.info("Após o pagamento, sua compra será confirmada manualmente.")
 
 #Confirma o pagamento e permite que a compra seja enviada para o administrador
 
-if st.button("💳 Confirmar pagamento"):
+if st.button("Confirmar pagamento"):
     for compraRef in compras:
         compraRef.reference.update({
             "status": "pago"

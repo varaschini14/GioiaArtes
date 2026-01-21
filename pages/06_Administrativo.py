@@ -71,16 +71,16 @@ if optionMenu == "Pedidos Pendentes":
                 """)
                 st.divider()
     
-        with col2:
-            if st.button(
-                "Fabricado",
-                key=f"fabricado_{pedido_id}"
-            ):
-                pedido_ref.update({
-                    "status": "fabricado"
-                })
-                st.success("Pedido marcado como fabricado!")
-                st.rerun()
+            with col2:
+                if st.button(
+                    "Fabricado",
+                    key=f"fabricado_{pedido_id}"
+                ):
+                    pedido_ref.update({
+                        "status": "fabricado"
+                    })
+                    st.success("Pedido marcado como fabricado!")
+                    st.rerun()
 
 # Permite, atraves e form, adicionar produtos
 
